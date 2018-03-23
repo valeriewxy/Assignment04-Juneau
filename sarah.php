@@ -13,7 +13,7 @@
 
 	</head>
 
-	<body><!-- put idea of how it might look in ideas folder -->
+	<body>
 
 		<?php $active='sarah';?>
 		<?php include 'inc/navigation.inc';?>
@@ -41,12 +41,7 @@
 
 						<p>Relevant Coursework: Digital Media Studies 101: Intro to Digital Media Studies, Digital Media Studies 102: Essential Digital Media Toolkit, Digital Media Studies 104: Design in The Digital Age, Computer Science 108: Technical Computing, Computer Science 131: Recreational Graphics, Computer Science 161: The Art of Programming, Computer Science 170: Web Design & Development. Honors/Awards: Dean’s List: Fall 2015, Fall 2016, Spring 2017 Scholarship: Gilman 2017 Scholarship Recipient; New Visions 2015 Scholarship Recipient Study Abroad: Seoul National University, Seoul, South Korea Fall 2017</p>
 
-						<p>New Visions for Public School, New York, NY
-						Intern, Communications, (June 2017– August 2017)
-						Gawain Consulting, New York, NY
-						Intern, Sales and Marketing,(May 2017– June 2017)
-						University of Rochester, Rochester, NY
-						Barista, Pura Vida Restaurant (January 2017– May 2017)</p>
+						<p>New Visions for Public School, New York, NY. Intern, Communications, (June 2017– August 2017). Gawain Consulting, New York, NY. Intern, Sales and Marketing,(May 2017– June 2017). University of Rochester, Rochester, NY, Barista, Pura Vida Restaurant (January 2017– May 2017).</p>
 
 						<h2>Miscellaneous</h2>
 

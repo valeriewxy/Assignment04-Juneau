@@ -26,6 +26,8 @@
 				<li><a href="aziz.php" class="<?php echo ($active == 'Aziz' ? "active" : "");?>">Zubair Aziz</a></li>
 				<li><a href="ostriker.php" class="<?php echo ($active == 'Ostriker' ? "active" : "");?>">Oliver Ostriker</a></li>
 				<li><a href="yang.php" class="<?php echo ($active == 'Yang' ? "active" : "");?>">Jimmy Yang</a></li>
+				<li><a href="sarah.php" class="<?php echo ($active == 'sarah' ? "active" : "");?>">Sarah Ogunji</a></li>
+				<li><a href="form.php" class="<?php echo ($active == 'form' ? "active" : "");?>">Contact Us</a></li>
 
 			</ul>
 

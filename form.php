@@ -19,19 +19,19 @@
 		<?php include 'inc/navigation.inc';?>
 
 		<div class="container">
-			<h1>Contact us</h1>
+			<h1>Contact Us</h1>
 			<span>Looking forward to hearing from you!</span>
 			<form method="post" action="welcome.php">
 				<div>
-					<label for ="name">Name:</label>
+					<label for ="name">Name</label><br>
 					<input type="text" name="name" id="name">
 				</div>
 				<div>
-					<label for ="email">E-mail:</label>
+					<label for ="email">E-mail</label><br>
 					<input type="email" name="email" id="email">
 				</div>
 				<div>
-					<<label for ="message">Message:</label>
+					<label for ="message">Message</label><br>
 					<textarea rows="5", cols="50"></textarea>
 				</div>
 				<div>

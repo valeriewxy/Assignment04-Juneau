@@ -13,7 +13,7 @@
 
 	</head>
 
-	<body><!-- put idea of how it might look in ideas folder -->
+	<body>
 
 		<?php $active='Yang';?>
 		<?php include 'inc/navigation.inc';?>
