@@ -14,7 +14,7 @@
 
 			</button>
 
-			<a class="navbar-brand" href="index.php">Economics</a>
+			<a class="navbar-brand" href="index.php">Economics v.s. DMS</a>
 
 		</div>
 

@@ -14,11 +14,11 @@ I plan to use same background color and website layout for the three students fr
 
 Layout Suggestions：
 Each web pages could have a common footer.
-Designer can decide whether or not to keep the original home page styles.
+Designer could decide whether or not to keep the original home page styles.
 The HTML form could be positioned on a new page, and this page should use the same layout as the students' pages do. 
 
 Typeface/Font Suggestion：
-The h1s should be styled using fonts that are clear and powerful.
+The h1s need to be styled using fonts that are clear and powerful.
 It might be better to use san-serif font on the website to convey simpilicity and modernity.
 All the body paragraphs should use the same font.
 

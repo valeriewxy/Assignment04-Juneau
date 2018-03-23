@@ -41,7 +41,9 @@
 			
 
 		</div>
-
+		<footer class="footer">
+		  <span class="text-muted">Page created by Team Juneau</span>
+		</footer>
 	</body>
 	
 </html>

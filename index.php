@@ -34,11 +34,11 @@
         <div class="animated fadeIn">
 
           <div class="mainPageTitle">
-            Economics Students of CSC174
+            Odd Team Member
           </div>
 
           <div class="mainPageSubText">
-            A brief look at some of our classroom's Economics students
+            Social science or humanities
           </div>
 
         </div>
@@ -46,7 +46,9 @@
       </div>
       
     </div>
-
+<footer class="footer">
+      <span class="text-muted">Page created by Team Juneau</span>
+    </footer>
   </body>
 
 </html>
