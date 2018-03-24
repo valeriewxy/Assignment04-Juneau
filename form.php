@@ -13,7 +13,7 @@
 
 	</head>
 
-	<body><!-- put idea of how it might look in ideas folder -->
+	<body>
 
 		<?php $active='form';?>
 		<?php include 'inc/navigation.inc';?>
@@ -38,8 +38,6 @@
 					<input type="submit">
 				</div>
 			</form>
-			
-
 		</div>
 		<footer class="footer">
 		  <span class="text-muted">Page created by Team Juneau</span>
