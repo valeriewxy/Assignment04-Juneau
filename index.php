@@ -34,11 +34,11 @@
         <div class="animated fadeIn">
 
           <div class="mainPageTitle">
-            Odd Team Member
+            Social Science or Humanities？
           </div>
 
           <div class="mainPageSubText">
-            Social science or Humanities？Here are profiles on three students with similar economics backgrounds and an odd team member who is interested in humanities and arts. 
+            Here are profiles on three students with similar economics backgrounds and an odd team member who is interested in arts and humanities. 
           </div>
 
         </div>

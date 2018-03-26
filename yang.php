@@ -35,6 +35,11 @@
 					<div class="right">
 
 						<h1>Jimmy Yang</h1>
+						<ul>
+							<li>Major: Economics and Global Perspectives History</li>
+							<li>Experience in Comupter Science and Business</li>
+							<li>Extra-curricular: Beta Theta Pi</li>
+						</ul>
 
 						<p>Hello! My name is Jimmy Yang. I am a sophomore and I am double majoring in Economics and Global Perspectives History. I am from a quaint small town called Fargo, ND.</p>
 

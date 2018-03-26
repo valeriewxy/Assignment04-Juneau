@@ -34,6 +34,12 @@
 					<div class="right">
 
 						<h1>Sarah Ogunji</h1>
+						<span>Odd Team Member</span>
+
+						<ul>
+							<li>Major: Digital Media Studies</li>
+							<li>Interests in humanities and art</li>
+						</ul>
 
 						<p>I currently attend the University of Rochester, as a junior who is expected to graduate with a Bachelor of Arts in Digital Media Studies on May 2019. My humanities cluster is Korean and my social science cluster is Psychology.</p>
 

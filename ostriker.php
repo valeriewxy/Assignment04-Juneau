@@ -37,6 +37,12 @@
 
 						<h1>Oliver Ostriker</h1>
 
+						<ul>
+							<li>Major: Economics</li>
+							<li>Minor in Comupter Science and Business</li>
+							<li>Extra-curricular: Theta Chi</li>
+						</ul>
+
 						<p>My name is Oliver Ostriker and I am a junior at the University of Rochester majoring in Financial Economics with minors in both Business and Computer Science. I am originally from Greenwich, Connecticut where I attended Greenwich High School. In High School, I really enjoyed an AP Economics course that I took, and therefore decided I wanted to major in something economics related. Because of this, I came across the University of Rochester which happened to have an incredible economics program. In addition, I had an uncle who lived in Rochester and a sister attending the school, so overall the U of R seemed like a great fit.</p>
 
 						<h2>Experience</h2>
