@@ -10,12 +10,13 @@ Database location: TBD
 
 ### IA - Xuanyang Wang
  
-I plan to use same background color and website layout for the three students from the orginal website because of the hings that they have in common: male, major in (Financial) Economics, experience in computer science, involvement in fraternities. I am going to apply a different background color or layout to the "odd team member". I chose Sarach as the fourth member on the website because she is a girl and her major interest on humanities, which is completely different from the other three students. She majors Digital Media Studies and has two clusters in Korean and Psycology.
+I plan to use same background color and website layout for the three students from the orginal website because of the hings that they have in common: male, major in (Financial) Economics, experience in computer science, involvement in fraternities. I am going to apply a different background color or layout to the "odd team member". I chose Sarach as the fourth member on the website because she is a girl and her major interest in humanities, which is completely different from the other three students. She majors Digital Media Studies and has two clusters in Korean and Psycology.
 
 Layout Suggestions：
 Each web pages could have a common footer.
 Designer could decide whether or not to keep the original home page styles.
 The HTML form could be positioned on a new page, and this page should use the same layout as the students' pages do. 
+A different background or theme color needs to be applied to the odd team member's page.
 
 Typeface/Font Suggestion：
 The h1s need to be styled using fonts that are clear and powerful.
