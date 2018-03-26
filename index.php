@@ -38,7 +38,7 @@
           </div>
 
           <div class="mainPageSubText">
-            Social science or humanities
+            Social science or Humanities？Here are profiles on three students with similar economics backgrounds and an odd team member who is interested in humanities and arts. 
           </div>
 
         </div>
