@@ -34,6 +34,27 @@ After the user clicks submit, a window will be open with text "Thank you for you
 
 ### Designer - Bei Lu
 
+DESIGN CHOICES:
+I kept the original color design for the 3 similar students, and used a contrasting color (red-green) for contrasting student in order to empathsis the contrasting nature of our website. All design choices were made to deliver a modern mood as the IA instructed.
+
+C.R.A.P. PRINCIPLES:
+	Contrast:
+		Font size: Bigger/Smaller size to distinguish importancies
+		Color: Used grey, black and white to show the contrast
+	Repetition:
+		Same navigation bar and footer for every page
+		Color: Same set of color for every page with similarity
+		Style: Same style using bootstrap for every page
+		Format: Same font and format of information for every page
+	Alignment:
+		Left alignment used across all pages.
+	Proximity:
+		Related information about individual students were grouped together.
+
+Typeface/Fonts:
+- Open Sans: Titles
+- Montserrat: All text
+
 F-Pattern in individual students' page to emphasis important information.
 1. Image on the top left;
 2. Navigation stretching across, horizontal navigation bar;
