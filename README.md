@@ -10,7 +10,7 @@ Database location: TBD
 
 ### IA - Xuanyang Wang
  
-I plan to use same background color and website layout for the three students from the orginal website because of the hings that they have in common: male, major in (Financial) Economics, experience in computer science, involvement in fraternities. I am going to apply a different background color or layout to the "odd team member". I chose Sarach as the fourth member on the website because she is a girl and her major interest in humanities, which is completely different from the other three students. She majors Digital Media Studies and has two clusters in Korean and Psycology.
+I plan to use same background color and website layout for the three students from the orginal website because of the things that they have in common: male, major in (Financial) Economics, experience in computer science, involvement in fraternities. I am going to apply a different background color or layout to the "odd team member". I chose Sarach as the fourth member on the website because she is a girl and her major interest in humanities, which is completely different from the other three students. She majors in Digital Media Studies and has two clusters in Korean and Psycology.
 
 Layout Suggestions：
 Each web pages could have a common footer.
@@ -29,3 +29,17 @@ Name - input tag, label: Name, type: text;
 Email - input tag, label: E-mail, type: email;
 Message - label: Message, textarea tag, rows = "5", cols = "50"
 After the user clicks submit, a window will be open with text "Thank you for your message"
+
+
+
+### Designer - Bei Lu
+
+F-Pattern in individual students' page to emphasis important information.
+1. Image on the top left;
+2. Navigation stretching across, horizontal navigation bar;
+
+Z-Pattern has been used in index page because there's little information included, and empasis the most important thing of our website: contrast. Used a clean, blurred background. Logo's font size changed to larger than other nav items.
+
+As the IA instructed, the contact form is in a seperate page. However, using neither econ students' or odd member's background color will be suitable here since this page is seperated in both content and location. Therefore, I choose to use the same background as index page for this page to indicate this is a functional page. Also, contact page doesn't have the responsibility to shoutout for attention.
+
+

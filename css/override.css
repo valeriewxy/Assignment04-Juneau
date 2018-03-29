@@ -64,6 +64,7 @@
   margin-right: auto;
   text-align: center;
   text-shadow: 1.5px 1.5px 6px #000000;
+  width: 70%;
   font-size: 15pt;
   font-style: italic;
   color: white
@@ -90,4 +91,11 @@ html body {
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a.active{
   background-color: #000000;
   color: #FFFFFF;
+  list-style:none;
 }
+
+#head{
+  font-size: 30px;
+}
+
+

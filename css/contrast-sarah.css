@@ -1,0 +1,11 @@
+
+html body {
+  background-color: #CE4650;
+  background-image: url("../images/dm.jpg");
+  background-size: 70%;
+}
+
+img, .right {
+  background-color: #a30000;
+}
+
