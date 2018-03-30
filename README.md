@@ -51,9 +51,12 @@ C.R.A.P. PRINCIPLES:
 	Proximity:
 		Related information about individual students were grouped together.
 
-Typeface/Fonts:
+Typefaces/Fonts:
+I choosed san-serif as the IA instructed. Both Open sans and Montserrat convey a modern mood
 - Open Sans: Titles
-- Montserrat: All text
+- Montserrat: All other text
+
+For layout I used bootstrap across the whole website, combining with customed patterns.
 
 F-Pattern in individual students' page to emphasis important information.
 1. Image on the top left;
