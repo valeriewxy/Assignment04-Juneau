@@ -42,7 +42,7 @@
 					<form method="post" action="welcome.php">
 						<div>
 							<label for ="name">Name</label><br>
-							<input id="text" type="text" name="name" id="name">
+							<input type="text" type="text" name="name" id="name">
 						</div>
 						<div>
 							<label for ="email">E-mail</label><br>
