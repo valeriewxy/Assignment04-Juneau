@@ -10,7 +10,7 @@ $name = Trim(stripcslashes($_POST["name"]));
 $email = Trim(stripcslashes($_POST["email"]));
 
   //2. Perform database query
-  $query = "INSERT INTO students (name, email) VALUES ('$name','$email')";
+  $query = "INSERT INTO student (name, email) VALUES ('$name','$email')";
   $result = mysqli_query($connection, $query); 
 
   
