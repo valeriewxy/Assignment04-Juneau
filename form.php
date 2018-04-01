@@ -46,7 +46,7 @@
 						</div>
 						<div>
 							<label for ="email">E-mail:</label><br>
-							<input type="text" name="email" id="email">
+							<input type="radio" name="email" id="email">
 						</div>
 						<div>
 							<label for ="message">Message</label><br>
