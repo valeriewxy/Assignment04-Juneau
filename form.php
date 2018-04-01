@@ -19,8 +19,8 @@
 
 	<body>
 
-		<?php $active='form';?>
-		<?php include 'inc/navigation.inc';?>
+		<?php $active='form'?> 
+		<?php include 'inc/navigation.inc' ?>
 
 		<div class="mainPageLanding">
 
