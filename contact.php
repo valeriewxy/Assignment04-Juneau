@@ -15,16 +15,17 @@ $email = Trim(stripcslashes($_POST["email"]));
 
   
 ?>
-
-<?php include "inc/html-top.inc"; ?>
-	<article>
-		 <div id = "bodyContainer3">
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+</head>
+  <body>
+		 
       Success!
       The student
       <?php echo $_POST["name"]; ?>
      has been successfully added!
-    </div>
-  </article>
  </body>
 </html>
 

@@ -39,7 +39,7 @@
 					<h1>Contact Us</h1>
 					<span>Looking forward to hearing from you!</span>
 		    </div>
-					<form method="post" action="welcome.php">
+					<form method="post" action="contact.php">
 						<div>
 							<label for ="name">Name</label><br>
 							<input type="text" name="name" id="name">
