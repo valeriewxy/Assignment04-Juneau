@@ -37,7 +37,7 @@
 			<div class="container">
 			<div class="headcontainer">
 					<h1>Contact Us</h1>
-					<span>Looking forward to hearing from you!</span>
+					<span>Lookin forward to hearing from you!</span>
 		    </div>
 					<form method="post" action="welcome.php">
 						<div>
