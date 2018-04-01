@@ -37,23 +37,23 @@
 			<div class="container">
 			<div class="headcontainer">
 					<h1>Contact Us</h1>
-					<span>Lookin forward to hearing from you!</span>
+					<span>Looking forward to hearing from you!</span>
 		    </div>
 					<form method="post" action="welcome.php">
 						<div>
 							<label for ="name">Name</label><br>
-							<input type="text" type="text" name="name" id="name">
+							<input type="text" name="name" id="name">
 						</div>
 						<div>
 							<label for ="email">E-mail</label><br>
-							<input id="text" type="email" name="email" id="email">
+							<input type="text" name="email" id="email">
 						</div>
 						<div>
 							<label for ="message">Message</label><br>
-							<textarea id="text" rows="5", cols="50"></textarea>
+							<textarea type="text" rows="5", cols="50"></textarea>
 						</div>
 						<div>
-							<input id="submit" type="submit">
+							<input type="submit">
 						</div>
 					</form>
 			  </div>
