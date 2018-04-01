@@ -42,11 +42,11 @@
 					<form method="post" action="contact.php">
 						<div>
 							<label for ="name">Name:</label><br>
-							<input type="text" name="name">
+							<input type="text" name="name" id="name">
 						</div>
 						<div>
 							<label for ="email">E-mail:</label><br>
-							<input type="text" name="email">
+							<input type="text" name="email" id="email">
 						</div>
 						<div>
 							<label for ="message">Message</label><br>
