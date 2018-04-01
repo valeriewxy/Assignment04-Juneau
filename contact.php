@@ -8,9 +8,9 @@
 
 $name = Trim(stripcslashes($_POST["name"]));
 $email = Trim(stripcslashes($_POST["email"]));
-
+$message = Trim(stripcslashes($_POST["message"]));
   //2. Perform database query
-  $query = "INSERT INTO student (name, email) VALUES ('$name','$email')";
+  $query = "INSERT INTO student (Name, Email, Message) VALUES ('$name','$email','$message')";
   $result = mysqli_query($connection, $query); 
 
   

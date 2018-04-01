@@ -8,9 +8,10 @@
 		<title>Assignment 04</title>
 		<link rel="stylesheet" href="css/bootstrap-3.3.7-dist/css/bootstrap.min.css"/>
 		<link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans" rel="stylesheet">
-		<link rel="stylesheet" type ="text/css" href="css/override.css">
+		
 		<link rel="stylesheet" type ="text/css" href="css/contact.css">
 		<link rel="stylesheet" type ="text/css" href="css/animate.css">
+		<link rel="stylesheet" type ="text/css" href="css/override.css">
 
 		<script src="css/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -50,7 +51,7 @@
 						</div>
 						<div>
 							<label for ="message">Message</label><br>
-							<textarea type="text" rows="5", cols="50"></textarea>
+							<textarea type="text" rows="5", cols="50" name="message"></textarea>
 						</div>
 						<div>
 							<input type="submit">
