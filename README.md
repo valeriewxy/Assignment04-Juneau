@@ -5,7 +5,7 @@
 ### Coder: Masaru Fujimaki
 
 Website location: TBD
-GitHub location: https://github.com/valeriewxy/Assignment04-Juneau
+GitHub location: https://github.com/valeriewxy/assignment04-juneau
 Database location: TBD
 
 ### IA - Xuanyang Wang
@@ -17,6 +17,7 @@ Each web pages could have a common footer.
 Designer could decide whether or not to keep the original home page styles.
 The HTML form could be positioned on a new page, and this page should use the same layout as the students' pages do. 
 A different background or theme color needs to be applied to the odd team member's page.
+Design could use different color for the hover attribute on navigation.
 
 Typeface/Font Suggestion：
 The h1s need to be styled using fonts that are clear and powerful.
@@ -25,9 +26,9 @@ All the body paragraphs should use the same font.
 
 About HTML Form：
 Since we are making a portfolio website, I included the form as a "contact us" section. The web form asks input from users about their contact information including name, e-mail and the message they would like to send, with a sumbit at the end of the form.
-Name - input tag, label: Name, type: text;
-Email - input tag, label: E-mail, type: email;
-Message - label: Message, textarea tag, rows = "5", cols = "50"
+	Name - input tag, label: Name, type: text;
+	Email - input tag, label: E-mail, type: email;
+	Message - label: Message, textarea tag, rows = "5", cols = "50"
 After the user clicks submit, a window will be open with text "Thank you for your message"
 
 
