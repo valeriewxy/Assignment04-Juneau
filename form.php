@@ -52,7 +52,7 @@
 						</div>
 						<div>
 							<label for ="message">Message</label><br>
-							<textarea type="text" rows="5" cols="50" name="message"></textarea>
+							<textarea rows="5" cols="50" name="message" id="message"></textarea>
 						</div>
 						<div>
 							<input type="submit">
