@@ -67,4 +67,12 @@ Z-Pattern has been used in index page because there's little information include
 
 As the IA instructed, the contact form is in a seperate page. However, using neither econ students' or odd member's background color will be suitable here since this page is seperated in both content and location. Therefore, I choose to use the same background as index page for this page to indicate this is a functional page. Also, contact page doesn't have the responsibility to shoutout for attention.
 
+ ### Coder - Masaru Fujimaki 
+
+ 1. I created the HTML form page using form method which visitor of this web page can write their information and submit to our database. 
+ 2. I also created the database using phpmyadmin and set up a table storing visitors' name, email, and message. 
+ 3. I set up the connection between the webpage and the database so that after visitor submit their information, information is automatically stored in the database. 
+ 4. I also validate all the php file and css documents. 
+ All the css files are validated with no errors. However, for php documents, some have errors due to using php include method in the code. 
+
 
