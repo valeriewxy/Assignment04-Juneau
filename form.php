@@ -51,7 +51,7 @@
 						</div>
 						<div>
 							<label for ="message">Message</label><br>
-							<textarea type="text" rows="5", cols="50" name="message"></textarea>
+							<textarea type="text" rows="5" cols="50" name="message"></textarea>
 						</div>
 						<div>
 							<input type="submit">
