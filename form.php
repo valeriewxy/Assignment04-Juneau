@@ -7,7 +7,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>Assignment 04</title>
 		<link rel="stylesheet" href="css/bootstrap-3.3.7-dist/css/bootstrap.min.css"/>
-		<link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans" rel="stylesheet">
+		 <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  		<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 		
 		<link rel="stylesheet" type ="text/css" href="css/contact.css">
 		<link rel="stylesheet" type ="text/css" href="css/animate.css">
