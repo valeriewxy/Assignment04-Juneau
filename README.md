@@ -4,9 +4,9 @@
 ### Designer: Bei Lu
 ### Coder: Masaru Fujimaki
 
-Website location: TBD
+Website location: http://urcsc174.org/assignment04/assignment04-juneau/
 GitHub location: https://github.com/valeriewxy/assignment04-juneau
-Database location: TBD
+Database location: urcscon3_juneau
 
 ### IA - Xuanyang Wang
  
