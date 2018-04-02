@@ -46,9 +46,7 @@
 							<li>Extra-curricular: Alpha Kappa Psi</li>
 						</ul>
 
-						<p>I am currently a junior, anticipated to graduate in May, 2019. I started off my first year in college majoring in Economics. I had the privilege to enroll in some interesting courses in the department, such as Sports Economics, where we tested out various economic theories in a sports setting, and Econometrics where students are taught how to use the tools that enable us to extract useful information about important economic policy from a set of available data.</p>
-
-						<p>I also decided to major in Computer Science after taking a few computer science courses that seemed interesting to me. Because of this, towards the end of my college “career”, I’m taking mostly CS courses. However, this semester in particular will be very interesting as I’m also enrolled in a dance class and an art class. I'm excited for this chance to branch out and obtain new experiences before I graduate.</p>
+						<p>I am currently a junior, anticipated to graduate in May, 2019. I started off my first year in college majoring in Economics. I had the privilege to enroll in some interesting courses in the department, such as Sports Economics and Econometrics. I also decided to major in Computer Science after taking a few computer science courses that seemed interesting to me. Because of this, towards the end of my college “career”, I’m taking mostly CS courses. </p>
 
 						<h2>Experience</h2>
 
