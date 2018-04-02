@@ -55,7 +55,7 @@
 							<textarea rows="5" cols="50" name="message" id="message"></textarea>
 						</div>
 						<div>
-							<input type="submit">
+							<input id="submit" type="submit">
 						</div>
 					</form>
 			  </div>
