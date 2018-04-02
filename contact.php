@@ -16,10 +16,10 @@ $message = Trim(stripcslashes($_POST["message"]));
   
 ?>
 <!DOCTYPE html>
-<html>
-<head>
+<html lang="en">
+
   <meta charset="utf-8">
-</head>
+
   <body>
 		 
       Success!
